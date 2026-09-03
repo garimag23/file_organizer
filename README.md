@@ -51,6 +51,3 @@ The program will provide a menu to:
 * JSON
 * Git & GitHub
 
-## Project Status
-
-Version 1.0 🚀
